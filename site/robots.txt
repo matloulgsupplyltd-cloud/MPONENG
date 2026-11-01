@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.mponengmining.co.za/sitemap.xml
